@@ -1,0 +1,2 @@
+(this["webpackJsonpgithub-pages"]=this["webpackJsonpgithub-pages"]||[]).push([[0],{10:function(t,e,n){"use strict";n.r(e);var c=n(1),i=n.n(c),s=n(3),r=n.n(s),a=(n(8),n(0));var p=function(){return Object(a.jsx)("h2",{children:"React app in github pages"})};r.a.render(Object(a.jsx)(i.a.StrictMode,{children:Object(a.jsx)(p,{})}),document.getElementById("root"))},8:function(t,e,n){}},[[10,1,2]]]);
+//# sourceMappingURL=main.e4ec5cb1.chunk.js.map
